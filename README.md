@@ -89,20 +89,6 @@ For any questions or further assistance, please reach out to Piyush Sasane at [p
 
 Happy developing!
 
----
-
-Feel free to adjust or add any additional information as needed!
-    ```bash
-    git branch -d feature-branch-name
-    git push origin --delete feature-branch-name
-    ```
-    
-#
-Happy developing! If you have any questions or run into issues, feel free to reach out.
-Contact
-For any questions or further assistance, please reach out at piyushsasane30@gmail.com.
-
-Happy developing!
 
 
 
